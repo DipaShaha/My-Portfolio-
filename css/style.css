@@ -71,12 +71,12 @@ p {
 .home-inner p {
   -webkit-animation-duration: 3s;
   -webkit-animation-delay: 2s;
-  -webkit-animation-iteration-count: infinite; }
+  -webkit-animation-iteration-count:  slidein; }
 
 .navbar-brand {
   webkit-animation-duration: 5s;
   -webkit-animation-delay: 5s;
-  -webkit-animation-iteration-count: infinite; }
+  -webkit-animation-iteration-count:  slidein; }
 
 .hire {
   font-size: 25px;
